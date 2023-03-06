@@ -9,7 +9,7 @@ Starting in March of 2023 we decided we will move our meeting notes to one rolli
 
 ## Live Meeting Notes
 
-<https://docs.google.com/document/d/1uadzULCR-l9JGVPeFM8uGK0AMsAimBnlC9CGfA9s4Ww/edit>
+<https://docs.google.com/document/d/1jVwX_ZInEtL8LYf7GDfEDtPztVuiECgKWCrIQGBZ_us/edit?usp=sharing>
 
 ## Intro
 
