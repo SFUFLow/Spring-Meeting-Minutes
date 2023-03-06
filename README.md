@@ -1,1 +1,1 @@
-# Spring-Meeting-Minutes
+# Sprint-Meeting-Minutes
