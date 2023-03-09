@@ -19,6 +19,7 @@ Starting in March of 2023 we decided we will move our meeting notes to one rolli
 * Ticket Creation
 * Assign tickets + learning
 * Plan weekly Sprint Planning/Review meetings
+* Branding/Brand System
 
 ## New Meeting Day & time
 
