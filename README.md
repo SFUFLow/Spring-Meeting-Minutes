@@ -57,6 +57,18 @@ TBD
 </details>
 
 ## Difficulty Estimate Scale
+ 
+### Internal
+*Tickets start in the 0's*
+|   Internal   | 0's |
+| ----------- | ----------- |
+| 1   | =<1hr        |
+| 2   | 1-2hrs       |
+| 3   | 2-3hrs       |
+| 4   | 3-4hrs       |
+| 5   | 4-5hrs       |
+| 6   | 5-6hrs       |
+| 7   | <6hrs        |
 
 ### Frontend
 *Tickets start in the 100's*
