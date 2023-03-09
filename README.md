@@ -11,24 +11,45 @@ Starting in March of 2023 we decided we will move our meeting notes to one rolli
 
 <https://docs.google.com/document/d/1jVwX_ZInEtL8LYf7GDfEDtPztVuiECgKWCrIQGBZ_us/edit?usp=sharing>
 
-## Intro
+## Overview
 
-- Introduce members
-- Tech Stack
-- Ticket System
-- Ticket Creation
-- Assign tickets + learning
-- Plan weekly Sprint Planning/Review meetings
+* Introduce members
+* Tech Stack
+* Ticket System
+* Ticket Creation
+* Assign tickets + learning
+* Plan weekly Sprint Planning/Review meetings
 
 ## New Meeting Day & time
 
-We now meet every ... 
+Sprint Review Meeting ~ Monday, March 13th @ 6:30pm
+
+~~We now meet every ...~~ Fill out LettuceMeet https://lettucemeet.com/l/mG01j to decide Sprint Planning + Review weekly meetings
 
 ## Quick status on in-flight tickets - (~2min each)
 
 TBD
 
-## Recording
+</details>
+
+<details>
+ <summary>Sprint Review - March 13, 2023</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1jVwX_ZInEtL8LYf7GDfEDtPztVuiECgKWCrIQGBZ_us/edit?usp=sharing>
+
+## Overview
+
+* Ticket Creation
+* Where is everyone at and feeling
+* Finalize time/date for weekly meetings
+
+## New Meeting Day & time
+
+We now meet every ...
+
+## Quick status on in-flight tickets - (~2min each)
 
 TBD
 
