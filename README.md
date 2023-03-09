@@ -55,3 +55,30 @@ We now meet every ...
 TBD
 
 </details>
+
+## Difficulty Estimate Scale
+
+### Frontend
+*Tickets start in the 100's*
+|   Frontend   | 100's |
+| ----------- | ----------- |
+| 101   | =<1hr        |
+| 102   | 1-2hrs       |
+| 103   | 2-3hrs       |
+| 104   | 3-4hrs       |
+| 105   | 4-5hrs       |
+| 106   | 5-6hrs       |
+| 107   | <6hrs        |
+
+### Backend
+*Tickets start in the 200's*
+|   Backend   | 200's |
+| ----------- | ----------- |
+| 201   | =<1hr        |
+| 202   | 1-2hrs       |
+| 203   | 2-3hrs       |
+| 204   | 3-4hrs       |
+| 205   | 4-5hrs       |
+| 206   | 5-6hrs       |
+| 207   | <6hrs        |
+
