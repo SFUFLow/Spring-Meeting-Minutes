@@ -76,16 +76,16 @@ We now meet every **Tuesday @ 7:30pm**
 ## Quick status on in-flight tickets - (~2min each)
 
 * Redis
- - Put aside for when we are scaling up
- - Planning on using https://upstash.com/ for production redis hosting
+  * Put aside for when we are scaling up
+  * Planning on using https://upstash.com/ for production redis hosting
 * Landing page + user log-in/sign-up
- - 90% done ~ missing some functionality (auth0 + passportjs)
+  * 90% done ~ missing some functionality (auth0 + passportjs)
 * Favicon
- - Finished and merged
+  * Finished and merged
 * Passportjs Auth0
- - FInished and merged
+  * FInished and merged
 * ERD
- - 80% done 
- - Connect 3x more tables (user, ratings, profRatings)
+  * 80% done 
+  * Connect 3x more tables (user, ratings, profRatings)
 
 </details>
