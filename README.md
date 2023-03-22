@@ -55,3 +55,37 @@ We now meet every ...
 TBD
 
 </details>
+
+<details>
+ <summary>Sprint Review - March 21, 2023</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1jVwX_ZInEtL8LYf7GDfEDtPztVuiECgKWCrIQGBZ_us/edit?usp=sharing>
+
+## Overview
+
+* Finalize Name - SFU Flow
+* Ticket Creation
+* Wrap up ERD
+
+## New Meeting Day & time
+
+We now meet every **Tuesday @ 7:30pm**
+
+## Quick status on in-flight tickets - (~2min each)
+
+* Redis
+ - Put aside for when we are scaling up
+ - Planning on using https://upstash.com/ for production redis hosting
+* Landing page + user log-in/sign-up
+ - 90% done ~ missing some functionality (auth0 + passportjs)
+* Favicon
+ - Finished and merged
+* Passportjs Auth0
+ - FInished and merged
+* ERD
+ - 80% done 
+ - Connect 3x more tables (user, ratings, profRatings)
+
+</details>
