@@ -87,5 +87,7 @@ We now meet every **Tuesday @ 7:30pm**
 * ERD
   * 80% done 
   * Connect 3x more tables (user, ratings, profRatings)
+* Frontend Developement
+  * Moving from Flowbite component library to Daisy UI
 
 </details>
