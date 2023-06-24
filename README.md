@@ -1,4 +1,4 @@
-# SFU FLow Meeting Minutes
+# SFU Flow Meeting Minutes
 
 Starting in March of 2023 we decided we will move our meeting notes to one rolling gdoc that will be updated at each call. This should avoid document sprawl and let folks have one consistent spot to look at/update our notes.
 
